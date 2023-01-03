@@ -1,0 +1,23 @@
+{
+   "eventKey":"pr:opened",
+   "actor":{
+      "name":"opsera",
+      "emailAddress":"nawaz@opsera.io"
+   },
+   "pullRequest":{
+      "id":2,
+      "fromRef":{
+         "id":"refs/heads/feature-123",
+         "displayId":"feature-123",
+         "latestCommit":"cc358951804991f47ae8c89bfbd8be44271daf13",
+         "repository":{
+            "name":"SAP-CPQ-SERVER"
+         }
+      },
+      "toRef":{
+         "id":"refs/heads/hemadri-idq",
+         "displayId":"hemadri-idq",
+         "latestCommit":"35fa97c121e7970471039653d6598fc83541e558"
+      }
+   }
+}
