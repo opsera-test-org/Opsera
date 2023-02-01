@@ -1,5 +1,5 @@
 Running Notes of @akshaymarch7  's session on 01-01-2023:
-
+nawaz@opsera.io
 Writing Scripts in package.json.
 
 *Q. What converts New Code to Older Code(For older version Browsers)? 
